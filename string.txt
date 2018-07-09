@@ -1,0 +1,4 @@
+This generational and chronological list of Intel processors attempts to present all of
+Intel's processors from the pioneering 4-bit 4004(1971) to the present high-end offerings,
+which include the 64-bit Itanium 2 (2002), Intel Core i7, and Xeon E3 and E5 series
+processors (2015). Concise technical data are given for each product.
